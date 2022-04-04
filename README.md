@@ -7,6 +7,6 @@
 #### CSS
 #### Little bit JavaScript
 #### Little bit Python 🐍
-<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Coder-Usman&show_icons=true&locale=en&theme=github_dark" /> </p>
-<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-Usman&theme=dark" /> </p>
-<p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=Coder-Usman&theme=github" /> </p>
+<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CoderUsman&show_icons=true&locale=en&theme=github_dark" /> </p>
+<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderUsman&theme=dark" /> </p>
+<p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=CoderUsman&theme=github" /> </p>
