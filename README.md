@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**CoderUsman/CoderUsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi 👋 , I’m @CoderUsman
+![Profile Pic](https://blob.sololearn.com/avatars/7c898e4b-a8c7-476c-bf78-07a98bdea7db.jpg)
+#### 👀 I’m interested in Programming 👨‍💻
+#### 🌱 I’m currently learning JavaScript
+## **Skills:**
+#### HTML
+#### CSS
+#### Little bit JavaScript
+#### Little bit Python 🐍
+<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Coder-Usman&show_icons=true&locale=en&theme=github_dark" /> </p>
+<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-Usman&theme=dark" /> </p>
+<p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=Coder-Usman&theme=github" /> </p>
