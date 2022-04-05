@@ -1,5 +1,4 @@
 # Hi 👋 , I’m @CoderUsman
-![Profile Pic](https://blob.sololearn.com/avatars/7c898e4b-a8c7-476c-bf78-07a98bdea7db.jpg)
 #### 👀 I’m interested in Programming 👨‍💻
 #### 🌱 I’m currently learning JavaScript
 ## **Skills:**
