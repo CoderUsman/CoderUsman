@@ -16,5 +16,4 @@
 [![wakatime](https://wakatime.com/badge/user/7feef675-b111-4e09-bd57-ee1088ecd8ba.svg?style=for-the-badge)](https://wakatime.com/@7feef675-b111-4e09-bd57-ee1088ecd8ba)
 [![github](https://img.shields.io/github/followers/CoderUsman?logo=github&style=for-the-badge)](https://github.com/CoderUsman?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=CoderUsman&label=Profile%20views&color=0e75b6&style=for-the-badge)
-
-[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?logo=sololearn&logoWidth=20&logoColor=white&style=for-the-badge)](https://sololearn.com/profile/17317626)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-gray?logo=sololearn&logoWidth=10&logoColor=white&style=for-the-badge)](https://sololearn.com/profile/17317626)
