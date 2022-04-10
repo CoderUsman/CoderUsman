@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Xastrl.css**
 
-- 👨‍💻 All of my projects are available at [http://sololearn.com/profile/17317626](http://sololearn.com/profile/17317626)
+- 👨‍💻 All of my projects are available at **http://sololearn.com/profile/17317626**
 
 - 📫 How to reach me **http://sololearn.com/profile/17317626**
 
