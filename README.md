@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Coder Usman</h1>
 <h3 align="center">A web developer and designer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderusman" alt="coderusman" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=coderusman&theme=onedark)](https://github.com/coderusman/github-profile-trophy)
 - I am working on **Xastrl.css**
 
 - 😎 I’m currently learning **JavaScript**
