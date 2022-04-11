@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **http://sololearn.com/profile/17317626**
 
-- ⚡ Fun fact **I am funny 😄😆**
+- ⚡ Fun fact **I think I am funny 😄😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
