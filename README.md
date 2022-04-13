@@ -2,11 +2,8 @@
 <h3 align="center">A web developer and designer.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=coderusman&theme=onedark)](https://github.com/coderusman/github-profile-trophy)
-- I am working on **Xastrl.css**
 
 - 😎 I’m currently learning **JavaScript**
-
-- 🤝 I’m looking for help with **Xastrl.css**
 
 - 👨‍💻 All of my projects are available at **http://sololearn.com/profile/17317626**
 
