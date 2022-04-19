@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderusman&show_icons=true&locale=en" alt="coderusman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderusman&" alt="coderusman" /></p>
+
+[![wakatime](https://wakatime.com/badge/user/7feef675-b111-4e09-bd57-ee1088ecd8ba.svg?style=for-the-badge)](https://wakatime.com/@7feef675-b111-4e09-bd57-ee1088ecd8ba)
