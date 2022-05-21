@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Coder Usman</h1>
-<h3 align="center">A web developer and designer from Earth.</h3>
+<h3 align="center">A web developer and designer from Mars.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=coderusman&theme=nord&no-frame=true)](https://github.com/coderusman/github-profile-trophy)
 
@@ -29,3 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderusman&" alt="coderusman" /></p>
 
 [![wakatime](https://wakatime.com/badge/user/7feef675-b111-4e09-bd57-ee1088ecd8ba.svg?style=for-the-badge)](https://wakatime.com/@7feef675-b111-4e09-bd57-ee1088ecd8ba)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderusman&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coderusman" /> </p>
